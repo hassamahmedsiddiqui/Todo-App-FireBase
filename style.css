@@ -1,0 +1,15 @@
+/* .todo-box {
+    background-color: red;
+    min-width: 10px;
+    max-width: auto;
+} */
+.todo-input {
+    border: none;
+    background: transparent;
+    color: #000;
+    width: max-content;
+}
+
+body{
+    height: 100vh;
+}
